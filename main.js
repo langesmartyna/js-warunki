@@ -1,4 +1,4 @@
-let number = "12"
+let number = 12;
 
 if (number > 10) {
 
